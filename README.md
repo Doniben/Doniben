@@ -150,8 +150,18 @@ Since 2014, leading all technical development for the **Colombian Esperanto Leag
 **AWS**
 
 ![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF9900?style=flat&logo=amazonapigateway&logoColor=white)
+![ECS](https://img.shields.io/badge/ECS-FF9900?style=flat&logo=amazonecs&logoColor=white)
+![ECR](https://img.shields.io/badge/ECR-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
+![Amplify](https://img.shields.io/badge/Amplify-FF9900?style=flat&logo=awsamplify&logoColor=white)
+![Elastic Load Balancing](https://img.shields.io/badge/ELB-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Route 53](https://img.shields.io/badge/Route_53-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Systems Manager](https://img.shields.io/badge/Systems_Manager-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Secrets Manager](https://img.shields.io/badge/Secrets_Manager-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Amazon Bedrock](https://img.shields.io/badge/Bedrock-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
