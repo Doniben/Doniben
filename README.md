@@ -28,7 +28,7 @@ My work lives at the crossroads of **NLP, music technology, education tech, and 
 
 ```
 Languages I speak:  Spanish (native) · English (fluent) · Esperanto (since 2012)
-Languages I study:  Na'vi · Klingon · High Valyrian · Chinese (Mandarin)
+Languages I study:  Na'vi · Klingon · High Valyrian · Chinese (Mandarin)  <- yes, all of them count
 Languages I code:   Python · TypeScript · Rust · JavaScript · SQL
 ```
 
