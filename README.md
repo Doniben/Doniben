@@ -192,11 +192,11 @@ Since 2014, leading all technical development for the **Colombian Esperanto Leag
 
 <div align="center">
 
-![Doniben's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Doniben&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+[![Doniben's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Doniben&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github)](https://github.com/Doniben)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Doniben&layout=compact&theme=dark&hide_border=true&langs_count=8)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Doniben&layout=compact&theme=dark&hide_border=true&langs_count=8)](https://github.com/Doniben)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Doniben&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Doniben&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
