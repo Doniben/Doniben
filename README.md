@@ -36,9 +36,9 @@ Languages I code:   Python · TypeScript · Rust · JavaScript · SQL
 
 ## Featured Projects
 
-### 🧬 Cipheak - Constructed Language Generator
+### 🧬 [Cipheak](https://cipheak.esperanto.co) - Constructed Language Generator
 
-> *The only full-stack conlang builder inspired by Esperanto grammar*
+> *The only full-stack conlang builder inspired by Esperanto grammar — [cipheak.esperanto.co](https://cipheak.esperanto.co)*
 
 Create complete artificial languages from scratch: phonetics, alphabet, vocabulary, morphology, grammar rules, and **interactive lessons with exercises**. Every generated language is a fully functional linguistic system - not just random words, but a learnable language with coherent internal structure.
 
@@ -113,7 +113,7 @@ Since 2014, leading all technical development for the **Colombian Esperanto Leag
 | [SAI](https://sai.esperanto.co/cli) | AI coding assistant CLI (Rust) | Live |
 | [Ludilo](https://ludilo.esperanto.co) | Music learning + AI | Beta |
 | Transkribi | Transcription + study tools | Dev |
-| Cipheak | Conlang generator | Rebuilding |
+| Cipheak | Conlang generator | [Live](https://cipheak.esperanto.co) |
 | Kongresoj | Congress registration system | Live |
 | Cursos | Online course platform (Vue + TS) | Live |
 
@@ -183,7 +183,7 @@ Since 2014, leading all technical development for the **Colombian Esperanto Leag
 - 🏢 Systems Engineer at [Altan Redes](https://altanredes.com) - telecom infra for 25M+ users in Mexico
 - 🎓 M.A. in Language Sciences - BUAP, Puebla, Mexico (2025-2027)
 - 📝 Thesis: *Systemic Functional Linguistics applied to constructed languages* (Na'vi, Klingon, High Valyrian)
-- 🔧 Building Ludilo beta · Rebuilding Cipheak on Azure Serverless
+- 🔧 Building Ludilo beta · [Cipheak](https://cipheak.esperanto.co) back online on Azure Serverless
 - 🌐 Technical lead at [EsperantoCo](https://esperanto.co) since 2014
 
 ---
@@ -219,7 +219,7 @@ Desde 2014 soy desarrollador principal en **[EsperantoCo](https://esperanto.co)*
 
 ### Proyectos destacados
 
-**Cipheak** - Generador de lenguas artificiales completas: fonetica, vocabulario, gramatica, lecciones interactivas. Basado en la gramatica del esperanto.
+**[Cipheak](https://cipheak.esperanto.co)** - Generador de lenguas artificiales completas: fonetica, vocabulario, gramatica, lecciones interactivas. Basado en la gramatica del esperanto.
 
 **SAI CLI** - Asistente de codificacion con IA en Rust para la comunidad esperantista. `sai.esperanto.co/cli`
 
@@ -248,7 +248,7 @@ Ekde 2014, mi estas cefa programisto de **[EsperantoCo](https://esperanto.co)**.
 
 ### Elstaraj projektoj
 
-**Cipheak** - Generatoro de kompletaj artefaritaj lingvoj: fonetiko, vortaro, gramatiko, interaktivaj lecionoj.
+**[Cipheak](https://cipheak.esperanto.co)** - Generatoro de kompletaj artefaritaj lingvoj: fonetiko, vortaro, gramatiko, interaktivaj lecionoj.
 
 **SAI CLI** - AI-kodada asistanto en Rust por la Esperanto-komunumo. `sai.esperanto.co/cli`
 
