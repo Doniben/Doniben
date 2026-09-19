@@ -83,6 +83,19 @@ Serverless transcription platform built for **students and conference attendees*
 
 ---
 
+### 🖊️ [InkBridge](https://github.com/Doniben/inkbridge) - Android Tablet as Graphic Tablet on macOS
+
+> *Real stylus pressure support over WiFi — no drivers needed*
+
+Use your Android tablet as a graphic tablet on macOS with **native pressure sensitivity**. Built for the XP-Pen Note Magic but designed to work with any Android device exposing stylus pressure via `MotionEvent`. The macOS host injects events as native `NSTabletPoint` so Procreate, Photoshop, and Krita see real pressure data.
+
+- Rust macOS host · Kotlin Android app · Custom binary protocol over WiFi
+- 🚧 Work in progress
+
+**Stack:** Rust · Kotlin · macOS CoreGraphics · Android MotionEvent
+
+---
+
 ### 🧠 [EEG Hyperscanning in Tango](https://github.com/Doniben/eeg-hiperescaneo-tango) - Neuroscience Research
 
 > *Simultaneous EEG of two dancing brains*
@@ -221,6 +234,8 @@ Desde 2014 soy desarrollador principal en **[EsperantoCo](https://esperanto.co)*
 
 **[Cipheak](https://cipheak.esperanto.co)** - Generador de lenguas artificiales completas: fonetica, vocabulario, gramatica, lecciones interactivas. Basado en la gramatica del esperanto.
 
+**[InkBridge](https://github.com/Doniben/inkbridge)** - Usa tu tablet Android como tableta gráfica en macOS con soporte real de presión del stylus vía WiFi. Sin drivers. Hecho en Rust + Kotlin.
+
 **SAI CLI** - Asistente de codificacion con IA en Rust para la comunidad esperantista. `sai.esperanto.co/cli`
 
 **Ludilo** - Plataforma de aprendizaje musical con IA: sube audio, obtien partituras. Modelo ONNX propio entrenado con PyTorch + red de nodos distribuidos.
@@ -249,6 +264,8 @@ Ekde 2014, mi estas cefa programisto de **[EsperantoCo](https://esperanto.co)**.
 ### Elstaraj projektoj
 
 **[Cipheak](https://cipheak.esperanto.co)** - Generatoro de kompletaj artefaritaj lingvoj: fonetiko, vortaro, gramatiko, interaktivaj lecionoj.
+
+**[InkBridge](https://github.com/Doniben/inkbridge)** - Uzu vian Android-tabuleton kiel grafikan tabuleton en macOS kun reala prem-subteno de la stilo per WiFi. Farita en Rust + Kotlin.
 
 **SAI CLI** - AI-kodada asistanto en Rust por la Esperanto-komunumo. `sai.esperanto.co/cli`
 
